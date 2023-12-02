@@ -58,7 +58,7 @@ const diferenciaHoras = computed(()=>{
    <div class="flex items-center justify-center">
   <div class="flex flex-col">
     <div>
-      <img src="Recursos/logo.svg" class="w-32 h-32 ml-6" alt="logo">
+      <img src="/Recursos/logo.svg" class="w-32 h-32 ml-6" alt="logo">
       <p class="text-4xl font-bold">SIT Motul</p>
     </div>
     <div  >
